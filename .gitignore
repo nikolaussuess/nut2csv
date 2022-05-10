@@ -1,0 +1,16 @@
+cmake-build-debug
+CMakeLists.txt
+*.mod
+*.smod
+*.o
+lib/f90getopt
+bin/linux_x86_64/nut2csv
+input_format.md
+
+# Misc
+.project
+.idea
+build/
+target/
+.DS_Store
+*.swp
